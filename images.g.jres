@@ -24,6 +24,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
+    "image4": {
+        "data": "hwQQABAAAADwEf///xEPAPAf8f8fEQ8A8B8R/xHxDwAA/xH/EfEAAADwEf8R/wAAAPAfEfEAAAAAAP8R8QAAAADwIhEiDwAAAPAiIiIPAAAA/yLyIv8AAAAvIvIi8gAA8C8i/y/yDwDwIiIPLyL/APAi8gD/IvIA8CLyAPAi8g////8A8P//Dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cpuScissors"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

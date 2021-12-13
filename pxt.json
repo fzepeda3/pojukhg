@@ -2,7 +2,8 @@
     "name": "[pojukhg",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "My Extension": "pub:93343-15251-27295-58739"
     },
     "files": [
         "main.blocks",
