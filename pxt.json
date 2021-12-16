@@ -2,7 +2,8 @@
     "name": "[pojukhg",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "My Extension": "pub:93343-15251-27295-58739"
     },
     "files": [
         "main.blocks",
@@ -10,7 +11,9 @@
         "README.md",
         "assets.json",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
